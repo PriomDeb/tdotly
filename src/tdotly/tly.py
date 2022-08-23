@@ -184,24 +184,3 @@ The keys of this dictionary are 'long_url', 'smart_urls', 'short_url', 'created_
         response.json()
         return response.json()['long_url'], response.json()['expired']
 
-
-user_api_token = ""
-user_long_url = "https://peps.python.org/pep-0440/#pre-release-separators"
-user_short_url = "https://t.ly/Co5Y"
-
-short = tly_shorturl()
-short.initialize(user_api_token)
-# short_url = short.create_short_url(user_long_url)
-# print(short_url)
-
-# short.short_url_stats(short_url="https://t.ly/Co5Y")
-# print(short.SHORT_URL_STATS)
-
-
-# short.get_short_url_info(user_short_url)
-
-# short.edit_url_settings(user_short_url, edit_description="PEP440", edit_include_qr_code=False)
-
-# short.delete_short_url("t.ly/Zxnv")
-
-# short.expand("https://t.ly/Co5Y")
