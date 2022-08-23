@@ -1,9 +1,11 @@
 ### This is a python package for t.ly url shortener service. Developed by [Priom Deb](https://priomdeb.com/) with supports from t.ly team.
 
+#### Acknowledgement
+Thank you [t.ly](https://t.ly/) for giving me the opportunity to make this python wrapper/library for t.ly url shortener service. I would like to give a special thank you to **Tim Leland** from t.ly to cooperate and help me for this project. This is a great honour for me to make this package for t.ly url shortener service. 
 
 </br>
 
-Try the project by installing it.
+Install the package
 ```bash
 pip install tdotly
 ```

@@ -4,7 +4,7 @@ build-backend = "hatchling.build"
 
 [project]
 name = "tdotly"
-version = "1.0a1.dev2"
+version = "1.0a1.dev3"
 authors = [
   { name="Priom Deb", email="priom@priomdeb.com" },
 ]
