@@ -23,5 +23,5 @@ dependencies = [
 ]
 
 [project.urls]
-"Homepage" = "https://github.com/PriomDeb/Developing-Tly-URL-Shortener-Python-Package-Index"
-"Bug Tracker" = "https://github.com/PriomDeb/Developing-Tly-URL-Shortener-Python-Package-Index/issues"
+"Homepage" = "https://github.com/PriomDeb/tdotly"
+"Bug Tracker" = "https://github.com/PriomDeb/tdotly/issues"
